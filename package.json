@@ -1,0 +1,28 @@
+{
+  "name": "vite-js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.7.96",
+    "sass": "^1.43.2",
+    "vite": "^2.4.4",
+    "vite-plugin-vue2": "^1.8.1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "@tiptap/extension-table": "^2.0.0-beta.53",
+    "@tiptap/extension-table-cell": "^2.0.0-beta.23",
+    "@tiptap/extension-table-header": "^2.0.0-beta.25",
+    "@tiptap/extension-table-row": "^2.0.0-beta.22",
+    "@tiptap/extension-text-align": "^2.0.0-beta.31",
+    "@tiptap/starter-kit": "^2.0.0-beta.189",
+    "@tiptap/vue-2": "^2.0.0-beta.83",
+    "@vue/composition-api": "^1.1.4",
+    "vue": "^2.6.14",
+    "vuetify": "^2.5.10"
+  }
+}
